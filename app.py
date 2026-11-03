@@ -1,5 +1,5 @@
 def add(a, b):
-    return a + b + 100
+    return a + b + 10
 
 def is_even(n):
     return n % 2 == 0
